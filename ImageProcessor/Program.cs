@@ -10,6 +10,7 @@ namespace ImageProcessor
     {
         static void Main(string[] args)
         {
+           ImageProcessing.CommandList();
           
             Console.ReadLine();
         }
